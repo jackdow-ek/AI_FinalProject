@@ -7,7 +7,7 @@ performing parking maneuvers, and monitoring oncoming vehicles. Unity ML Agents 
 established through trial and error, preventing the AI from resorting to undesirable shortcuts solely to obtain the reward in each round. The training logic
 used in this project can be applied to real vehicles using the same configurations and sensors.
 
-In this project, deep reinforcement learning (Deep Reinforcement Learning), Proximal Policy Optimization (PPO), and imitation learning methods were used, and 
+In this project, deep reinforcement learning, Proximal Policy Optimization (PPO), and imitation learning methods were used, and 
 the created model has been deployed (is ready for use).
 
 [Demonstration video](https://youtu.be/YVIPxd_mI7c "Demonstration video").
