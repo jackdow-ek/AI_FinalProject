@@ -9,3 +9,6 @@ used in this project can be applied to real vehicles using the same configuratio
 
 In this project, deep reinforcement learning (Deep Reinforcement Learning), Proximal Policy Optimization (PPO), and imitation learning methods were used, and 
 the created model has been deployed (is ready for use).
+
+[Demonstration video.](https://youtu.be/YVIPxd_mI7c "Demonstration video").
+
